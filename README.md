@@ -1,6 +1,6 @@
 # How to Build a Real Estate App Like Zillow or Realtor: Complete AI Development Guide (2026)
 
-![Real Estate App Development]([https://kuchoriya-software.s3.ap-south-1.amazonaws.com/Image/real-estate-app-development.webp](https://kuchoriya-software.s3.ap-south-1.amazonaws.com/Image/1775126989465_32610dc3-430f-4cbf-af0f-beffc24532fa.webp))
+![Real Estate App Development](https://kuchoriya-software.s3.ap-south-1.amazonaws.com/Image/1775126989465_32610dc3-430f-4cbf-af0f-beffc24532fa.webp)
 
 ## 📑 Table of Contents
 - Introduction  
